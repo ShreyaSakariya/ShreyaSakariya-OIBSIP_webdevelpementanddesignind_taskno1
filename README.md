@@ -165,7 +165,7 @@ TASK_1/
 
 ## 📝 Author
 
-**Yash V Patel**
+**Shreya Sakariya**
 Level 1 Internship — Task 1: Landing Page
 
 ---
